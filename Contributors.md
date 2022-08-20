@@ -102,6 +102,7 @@ Tristan Bottone
 - [Karan Ganwani](https://github.com/karan-97)
 Ajith
 - [albinary10] (https://github.com/albinary10)
+- [varalakshmi-tarini] (https://github.com/varalakshmit)
 - [Himanshu Bhanpurkar](https://github.com/Heeeemanshu10)
 - [Luiz Junior](https://github.com/LuizAPJunior)
 - [Namita Choudhary](https://github.com/NamitaChoudhary)
