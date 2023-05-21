@@ -1871,7 +1871,7 @@ Himanshu Dedha
 - [Yashraj Basan](https://github.com/yashrajb)
 - [Crystal Faqiri](https://github.com/cfaqiri)
 - [Adarsh Gopalakrishnan](https://github.com/krishnan7-dev)
-- [Astan Billings] (https://github.com/Astan-Billings)
+- [A C Billings] (https://github.com/Astan-Billings)
 - [Marius Malinauskas](https://github.com/Marovii)
 [Jaewan0](https://github.com/Jaewan0)
 - [Kaunaj Banerjee](https://github.com/Kaunaj)
