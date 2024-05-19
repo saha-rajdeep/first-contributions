@@ -10,7 +10,7 @@
 - [Dorival](https://github.com/DorivalJunior23)
 - [Quinton] (https://github.com/qwiebe)
 - [AnmolRaj](https://github.com/anmolrajsoni15)
-- [mukhesh](https://github.com/mukheshrsv)
+- [rsvmukhesh](https://github.com/mukheshrsv)
 - kishan Yadav
 - [Ayushi sinha](https://github.com/Ayushi271)
 - [Bruce Maddux](https://github.com/knexprince)
